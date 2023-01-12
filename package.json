@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "erc721a": "github:chiru-labs/ERC721A#main"
+  }
+}
